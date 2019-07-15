@@ -1,0 +1,54 @@
+[
+  {
+    "idmanifiesto": 4637,
+    "cchofer": "SOTO INGA VICTOR ALFONSO",
+    "cfechasalida": "2019.07.11",
+    "cnumero": "TRA2 07-1071",
+    "cruta": "AREQUIPA - AREQUIPA",
+    "cvehiculo": "C6G-876-HYUNDAY",
+    "corigen": "AREQUIPA",
+    "cdestino": "AREQUIPA",
+    "nbulto": 142,
+    "npeso": 2000,
+    "nimporte": 375.41
+  },
+  {
+    "idmanifiesto": 4626,
+    "cchofer": "SOTO INGA VICTOR ALFONSO",
+    "cfechasalida": "2019.07.09",
+    "cnumero": "TRA2 07-1065",
+    "cruta": "AREQUIPA - AREQUIPA",
+    "cvehiculo": "C6G-876-HYUNDAY",
+    "corigen": "AREQUIPA",
+    "cdestino": "AREQUIPA",
+    "nbulto": 40,
+    "npeso": 201,
+    "nimporte": 44.22
+  },
+  {
+    "idmanifiesto": 4552,
+    "cchofer": "SOTO INGA VICTOR ALFONSO",
+    "cfechasalida": "2019.06.26",
+    "cnumero": "TRA2 06-1043",
+    "cruta": "AREQUIPA - AREQUIPA",
+    "cvehiculo": "C6G-876-HYUNDAY",
+    "corigen": "AREQUIPA",
+    "cdestino": "AREQUIPA",
+    "nbulto": 117,
+    "npeso": 981,
+    "nimporte": 323.73
+  },
+  {
+    "idmanifiesto": 4480,
+    "cchofer": "SOTO INGA VICTOR ALFONSO",
+    "cfechasalida": "2019.06.19",
+    "cnumero": "TRA2 06-1028",
+    "cruta": "AREQUIPA - AREQUIPA",
+    "cvehiculo": "V8H-748-HYUNDAY",
+    "corigen": "AREQUIPA",
+    "cdestino": "AREQUIPA",
+    "nbulto": 35,
+    "npeso": 370,
+    "nimporte": 81.4
+  }
+]
